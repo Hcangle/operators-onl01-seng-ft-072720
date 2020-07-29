@@ -9,5 +9,3 @@ def unsafe?(speed)
   end
 end
 
-not_safe? = speed
-not_safe? < 60 ? true : false
